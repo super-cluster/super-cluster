@@ -12,9 +12,7 @@
  <a href="https://www.instagram.com/dark__.matter//
 " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
  /></a>
- <a href="https://www.instagram.com/dark__.matter//
-" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
- /></a>
+
  <!--
 
  👯 I’m looking to collaborate on ...
