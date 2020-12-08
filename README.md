@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi there 👋 
+  
+  My name is Anurag and i am currently pursuing Computer Science and Engineering.<br/><br/>
+ 🌱 I’m currently learning Web Development(MERN)<br/>
+ <!--
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Anuragcool)](https://github.com/anuraghazra/github-readme-stats)
+ 👯 I’m looking to collaborate on ...
+ 🤔 I’m looking for help with ...
+ 💬 Ask me about ...
+ 📫 How to reach me: ...
+ 😄 Pronouns: ...
+ ⚡ Fun fact: ...
+ -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Anuragcool&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragcool&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
