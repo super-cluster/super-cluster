@@ -2,6 +2,19 @@
   
   My name is Anurag and i am currently pursuing Computer Science and Engineering.<br/><br/>
  🌱 I’m currently learning Web Development(MERN)<br/>
+ 
+ <a href="https://www.linkedin.com/in/insideall/
+" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+ /></a>
+ <a href="mailto:anuragcooldavkh@gmail.com/
+" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+ /></a>
+ <a href="https://www.instagram.com/dark__.matter//
+" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+ /></a>
+ <a href="https://www.instagram.com/dark__.matter//
+" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+ /></a>
  <!--
 
  👯 I’m looking to collaborate on ...
