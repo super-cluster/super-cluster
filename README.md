@@ -1,7 +1,7 @@
 ### Hi there 👋 
   
   My name is Anurag and i am currently pursuing Computer Science and Engineering.<br/><br/>
- 🌱 I’m currently learning Web Development(MERN)<br/>
+
  
  <a href="https://www.linkedin.com/in/insideall/
 " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
