@@ -48,18 +48,16 @@ Anurag <anuragcooldavkh@gmail.com>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://nitiansimran.herokuapp.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-<a href="mailto:simranpwc@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-<a href="https://github.com/simran045"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/the-simran/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://anurag.up.railway.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+<a href="mailto:anuragcooldavkh@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<a href="https://github.com/AnuragCool"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/insideall/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://www.facebook.com/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-<a href="https://www.instagram.com/simran_singh.0/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-<a href="https://twitter.com/nitiansimran/"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 <hr/>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnuragCool&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="simran045"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnuragCool&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="AnuragCool"  /></p>
 
 ## 🛠️ My Skills
 
@@ -169,7 +167,7 @@ Anurag <anuragcooldavkh@gmail.com>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anurag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnuragCool&show_icons=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragCool&show_icons=true&locale=en&layout=compact&theme=algolia" alt="simran045" height="192px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragCool&show_icons=true&locale=en&layout=compact&theme=algolia" alt="AnuragCool" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
