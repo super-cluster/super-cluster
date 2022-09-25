@@ -30,7 +30,7 @@ Anurag <anuragcooldavkh@gmail.com>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=simran045&label=Profile%20views&color=0e75b6&style=flat" alt="simran045" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AnuragCool&label=Profile%20views&color=0e75b6&style=flat" alt="AnuragCool" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 <br>
 
