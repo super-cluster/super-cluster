@@ -1,7 +1,6 @@
 
 Anurag <anuragcooldavkh@gmail.com>
 5:43 PM (3 minutes ago)
-to Loving, Kumari
 
 <!--<p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
