@@ -10,7 +10,7 @@ Anurag <anuragcooldavkh@gmail.com>
 
 ![Header](https://github.com/AashimaAhuja/AashimaAhuja/blob/main/images/banner.png)
 
-<h1 align="center">Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anurag</h1>
+<h1 align="center">Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Anurag</h1>
 
 <!--<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Upcoming+Software+Engineer+Intern+At+Sabre;DSA%20|%20AI%20|%20Competitive%20Programming%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -34,15 +34,14 @@ Anurag <anuragcooldavkh@gmail.com>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 <br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 
 <!--![Profile View Counter](https://komarev.com/ghpvc/?username=AnuragCool)  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/TabLayoutDemo)-->
 
-✔ Pronouns: 😄 ***HE/HIM/HIS*** or ***TeamMaker***😉 <br>
-✔ I’m currently learning **Advanced JAVA** & **FrontEnd Development**<br>
-✔ - 🌱 I’m here to learn new things and collaborate with any **Open - Source contribution** <br> <!--<p> - 🤔 Currently looking for Summer Internship Opportunities </p> -->
-✔ I use to write code on [leetcode](https://leetcode.com/insideall/) <br>
-✔ Ask 💬 me about anything, I am happy to help, only if the ball is in my court!😉<br>
+* I’m currently learning **Advanced JAVA** & **FrontEnd Development**<br>
+* 🌱 I’m here to learn new things and collaborate with any **Open - Source contribution** <br> <!--<p> - 🤔 Currently looking for Summer Internship Opportunities </p> -->
+* I use to write code on [leetcode](https://leetcode.com/insideall/) <br>
+* Ask 💬 me about anything, I am happy to help, only if the ball is in my court!😉<br>
 
 <hr/>
 
