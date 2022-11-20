@@ -43,17 +43,7 @@ Anurag <anuragcooldavkh@gmail.com>
 ✔ - 🌱 I’m here to learn new things and collaborate with any **Open - Source contribution** <br> <!--<p> - 🤔 Currently looking for Summer Internship Opportunities </p> -->
 ✔ I use to write code on [leetcode](https://leetcode.com/insideall/) <br>
 ✔ Ask 💬 me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : ⚡ *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
 
-
-## 🙋‍♀️ Let's Connect
-<p align="center">
-  <a href="https://anurag.up.railway.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-<a href="mailto:anuragcooldavkh@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-<a href="https://github.com/AnuragCool"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/insideall/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://www.facebook.com/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-</p>
 <hr/>
 
 ## 🔥 Streak Stats
