@@ -39,18 +39,18 @@ Anurag <anuragcooldavkh@gmail.com>
 <!--![Profile View Counter](https://komarev.com/ghpvc/?username=AnuragCool)  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/TabLayoutDemo)-->
 
 * I’m currently learning **Advanced JAVA** & **FrontEnd Development**<br>
-* 🌱 I’m here to learn new things and collaborate with any **Open - Source contribution** <br> <!--<p> - 🤔 Currently looking for Summer Internship Opportunities </p> -->
+* I’m here to learn new things and collaborate with any **Open - Source contribution** <br> <!--<p>  Currently looking for Summer Internship Opportunities </p> -->
 * I use to write code on [leetcode](https://leetcode.com/insideall/) <br>
-* Ask 💬 me about anything, I am happy to help, only if the ball is in my court!😉<br>
+* Ask me about anything, I am happy to help, only if the ball is in my court!<br>
 
 <hr/>
 
-## 🔥 Streak Stats
+## Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnuragCool&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="AnuragCool"  /></p>
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### Programming languages
 
 <p align="left">
   &emsp;
@@ -75,7 +75,7 @@ Anurag <anuragcooldavkh@gmail.com>
   </a>
 </p>
 
-### 👉 Frontend Development
+### Frontend Development
 <p align="left">
   &emsp;
   <a href="https://www.w3.org/html/" target="_blank">
@@ -91,7 +91,7 @@ Anurag <anuragcooldavkh@gmail.com>
   </a>
 </p>
 
-### 👉 Databases
+### Databases
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -105,7 +105,7 @@ Anurag <anuragcooldavkh@gmail.com>
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>-->
  </p>
  
-### 👉 Software & Tools
+### Software & Tools
  
 <p>
   <!--&emsp;
@@ -134,7 +134,7 @@ Anurag <anuragcooldavkh@gmail.com>
 
 <br/>
 
-## 📊 Github Stats (Expand to View)
+## Github Stats (Expand to View)
 
 
 <details>
@@ -152,7 +152,7 @@ Anurag <anuragcooldavkh@gmail.com>
 
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/AnuragCool"><img alt="Anurag's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnuragCool&theme=react-dark" /></a>
   <br/>
